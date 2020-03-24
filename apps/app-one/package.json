@@ -1,5 +1,5 @@
 {
-  "name": "app-one",
+  "name": "@megarepo/app-one",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "@megarepo/shared": "*"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"

@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "prestart": "yarn workspace @megarepo/shared tsc",
+    "start": "yarn workspace @megarepo/app-one start"
+  }
+}
