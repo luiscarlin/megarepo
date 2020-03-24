@@ -9,3 +9,5 @@ export const MyButton = (props: MyButtonProps) => (
     {props.message}
   </button>
 );
+
+export const MyTitle = () => <h1>Shared Title</h1>;
