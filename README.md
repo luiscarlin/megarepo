@@ -14,5 +14,3 @@ Multiple packages in a single codebase
 - Easier to affect change across the platform
 - Code reviews are centralized
 - Application becomes a component library
-
-## Bolt
